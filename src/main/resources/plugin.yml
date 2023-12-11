@@ -1,0 +1,8 @@
+name: Genshin
+version: '${project.version}'
+main: org.eatpaimon.genshin.Genshin
+api-version: '1.19'
+authors: [Eat_Paimon]
+commands:
+  genshin:
+    aliases: ["gs"]
